@@ -43,7 +43,7 @@ iframe{border:none!important}
   flex-wrap:wrap;
   justify-content:center;
   align-items:center;
-  background-image: url('/đacs/images/background_dana.jpg');
+  background-image: url('https://raw.githubusercontent.com/ticchien/uchiha-nobita/main/images/background_dana.jpg');
 }
 .wrap-login100{width:960px;background:rgba(102, 105, 109, 0.479);border-radius:10px;overflow:hidden;display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;flex-wrap:wrap;justify-content:space-between;padding:177px 130px 33px 95px}
 .login100-pic{width:316px}
